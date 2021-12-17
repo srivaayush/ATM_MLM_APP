@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "23700317344",
+    "project_id": "atm-mlm-app",
+    "storage_bucket": "atm-mlm-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23700317344:android:f3d993ad02b4122f0d95c5",
+        "android_client_info": {
+          "package_name": "com.example.atm_mlm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23700317344-8kfoit6f4jo9ifdfj2uqajeuejfo79f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atm_mlm_app",
+            "certificate_hash": "06ca1077469030e8091c47287b2c2f5f41911ea1"
+          }
+        },
+        {
+          "client_id": "23700317344-mnb9tdim4gd7p0gkf2td0mm0koj5cup3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAozwoLS0PBH7MTAwBWYWdD0WdyJgAJDWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23700317344-mnb9tdim4gd7p0gkf2td0mm0koj5cup3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
